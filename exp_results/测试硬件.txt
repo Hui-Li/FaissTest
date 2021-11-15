@@ -1,0 +1,4 @@
+单CPU： Intel(R) Xeon(R) CPU E5-1660 v4 @ 3.20GHz
+       8核 16逻辑CPU
+
+64GB 内存

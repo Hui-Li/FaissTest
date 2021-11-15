@@ -1176,3 +1176,746 @@ Topk: 1
 ------------------------------------
 Flushing page cache, dentries and inodes...
 Done flushing.
+Dimension: 2048
+Records: 1000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 929586.000000 microsecs, 929.586000 millisecs, 0.929586 secsc
+### Start to build index
+### Building index costs 654030.000000 microsecs, 654.030000 millisecs, 0.654030 secsc
+### Start to secarch all queries
+[[993428]
+ [994541]
+ [995529]
+ [995613]
+ [997063]]
+[[999883]
+ [999987]
+ [999987]
+ [999978]
+ [999987]]
+### Total search time 391141.000000 microsecs, 391.141000 millisecs, 0.391141 secsc
+### Avg cost per query: 7.822820 microsecs, 0.007823 millisecs, 0.000008 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 1000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 104752.000000 microsecs, 104.752000 millisecs, 0.104752 secsc
+### Start to build index
+### Building index costs 238887.000000 microsecs, 238.887000 millisecs, 0.238887 secsc
+### Start to secarch all queries
+[[999261]
+ [999571]
+ [999886]
+ [997025]
+ [997025]]
+[[999979]
+ [999940]
+ [999979]
+ [999979]
+ [999979]]
+### Total search time 739103.000000 microsecs, 739.103000 millisecs, 0.739103 secsc
+### Avg cost per query: 7.391030 microsecs, 0.007391 millisecs, 0.000007 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 1000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 246789.000000 microsecs, 246.789000 millisecs, 0.246789 secsc
+### Start to build index
+### Building index costs 481456.000000 microsecs, 481.456000 millisecs, 0.481456 secsc
+### Start to secarch all queries
+[[999204]
+ [985848]
+ [995213]
+ [998331]
+ [994763]]
+[[999991]
+ [999991]
+ [999991]
+ [999991]
+ [999991]]
+### Total search time 314286.000000 microsecs, 314.286000 millisecs, 0.314286 secsc
+### Avg cost per query: 3.142860 microsecs, 0.003143 millisecs, 0.000003 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 1000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 561233.000000 microsecs, 561.233000 millisecs, 0.561233 secsc
+### Start to build index
+### Building index costs 949493.000000 microsecs, 949.493000 millisecs, 0.949493 secsc
+### Start to secarch all queries
+[[999455]
+ [999673]
+ [999452]
+ [999154]
+ [997174]]
+[[999900]
+ [999954]
+ [999868]
+ [999954]
+ [999900]]
+### Total search time 34727.000000 microsecs, 34.727000 millisecs, 0.034727 secsc
+### Avg cost per query: 0.347270 microsecs, 0.000347 millisecs, 0.000000 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 1000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 201686.000000 microsecs, 201.686000 millisecs, 0.201686 secsc
+### Start to build index
+### Building index costs 880244.000000 microsecs, 880.244000 millisecs, 0.880244 secsc
+### Start to secarch all queries
+[[999858]
+ [997263]
+ [998591]
+ [998419]
+ [985161]]
+[[999902]
+ [999902]
+ [999902]
+ [999902]
+ [999902]]
+### Total search time 658685.000000 microsecs, 658.685000 millisecs, 0.658685 secsc
+### Avg cost per query: 6.586850 microsecs, 0.006587 millisecs, 0.000007 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 1000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 877514.000000 microsecs, 877.514000 millisecs, 0.877514 secsc
+### Start to build index
+### Building index costs 713280.000000 microsecs, 713.280000 millisecs, 0.713280 secsc
+### Start to secarch all queries
+[[993428]
+ [994541]
+ [995529]
+ [995613]
+ [997063]]
+[[999987]
+ [999987]
+ [999987]
+ [999987]
+ [999978]]
+### Total search time 564221.000000 microsecs, 564.221000 millisecs, 0.564221 secsc
+### Avg cost per query: 5.642210 microsecs, 0.005642 millisecs, 0.000006 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 1000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 621041.000000 microsecs, 621.041000 millisecs, 0.621041 secsc
+### Start to build index
+### Building index costs 245071.000000 microsecs, 245.071000 millisecs, 0.245071 secsc
+### Start to secarch all queries
+[[999261]
+ [999571]
+ [999886]
+ [997025]
+ [997025]]
+[[999979]
+ [999979]
+ [999979]
+ [999979]
+ [999979]]
+### Total search time 590678.000000 microsecs, 590.678000 millisecs, 0.590678 secsc
+### Avg cost per query: 1.181356 microsecs, 0.001181 millisecs, 0.000001 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 1000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 108185.000000 microsecs, 108.185000 millisecs, 0.108185 secsc
+### Start to build index
+### Building index costs 464484.000000 microsecs, 464.484000 millisecs, 0.464484 secsc
+### Start to secarch all queries
+[[999204]
+ [985848]
+ [995213]
+ [998331]
+ [994763]]
+[[999991]
+ [999991]
+ [999991]
+ [999991]
+ [999991]]
+### Total search time 848236.000000 microsecs, 848.236000 millisecs, 0.848236 secsc
+### Avg cost per query: 1.696472 microsecs, 0.001696 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 1000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 200463.000000 microsecs, 200.463000 millisecs, 0.200463 secsc
+### Start to build index
+### Building index costs 960683.000000 microsecs, 960.683000 millisecs, 0.960683 secsc
+### Start to secarch all queries
+[[999455]
+ [999673]
+ [999452]
+ [999154]
+ [997174]]
+[[999993]
+ [999868]
+ [999993]
+ [999993]
+ [999993]]
+### Total search time 909369.000000 microsecs, 909.369000 millisecs, 0.909369 secsc
+### Avg cost per query: 1.818738 microsecs, 0.001819 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 1000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 487920.000000 microsecs, 487.920000 millisecs, 0.487920 secsc
+### Start to build index
+### Building index costs 923791.000000 microsecs, 923.791000 millisecs, 0.923791 secsc
+### Start to secarch all queries
+[[999858]
+ [997263]
+ [998591]
+ [998419]
+ [985161]]
+[[999970]
+ [999970]
+ [999970]
+ [999970]
+ [999970]]
+### Total search time 236311.000000 microsecs, 236.311000 millisecs, 0.236311 secsc
+### Avg cost per query: 0.472622 microsecs, 0.000473 millisecs, 0.000000 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 1000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 868869.000000 microsecs, 868.869000 millisecs, 0.868869 secsc
+### Start to build index
+### Building index costs 766420.000000 microsecs, 766.420000 millisecs, 0.766420 secsc
+### Start to secarch all queries
+[[993428]
+ [994541]
+ [995529]
+ [995613]
+ [997063]]
+[[999998]
+ [999998]
+ [999997]
+ [999998]
+ [999998]]
+### Total search time 587346.000000 microsecs, 587.346000 millisecs, 0.587346 secsc
+### Avg cost per query: 1.174692 microsecs, 0.001175 millisecs, 0.000001 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 2000000
+Queries: 10000
+Topk: 1
+### Start generating random data
+### Generating random data costs 75592.000000 microsecs, 75.592000 millisecs, 0.075592 secsc
+### Start to build index
+### Building index costs 456834.000000 microsecs, 456.834000 millisecs, 0.456834 secsc
+### Start to secarch all queries
+[[1997494]
+ [1999070]
+ [1999070]
+ [1999747]
+ [1999526]]
+[[1999983]
+ [1999983]
+ [1999983]
+ [1999983]
+ [1999983]]
+### Total search time 943391.000000 microsecs, 943.391000 millisecs, 0.943391 secsc
+### Avg cost per query: 94.339100 microsecs, 0.094339 millisecs, 0.000094 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 2000000
+Queries: 10000
+Topk: 1
+### Start generating random data
+### Generating random data costs 122893.000000 microsecs, 122.893000 millisecs, 0.122893 secsc
+### Start to build index
+### Building index costs 941719.000000 microsecs, 941.719000 millisecs, 0.941719 secsc
+### Start to secarch all queries
+[[1998910]
+ [1998581]
+ [1998910]
+ [1997377]
+ [1997733]]
+[[1999996]
+ [1999951]
+ [1999986]
+ [1999996]
+ [1999946]]
+### Total search time 39930.000000 microsecs, 39.930000 millisecs, 0.039930 secsc
+### Avg cost per query: 3.993000 microsecs, 0.003993 millisecs, 0.000004 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 2000000
+Queries: 10000
+Topk: 1
+### Start generating random data
+### Generating random data costs 979694.000000 microsecs, 979.694000 millisecs, 0.979694 secsc
+### Start to build index
+### Building index costs 813215.000000 microsecs, 813.215000 millisecs, 0.813215 secsc
+### Start to secarch all queries
+[[1999592]
+ [1997182]
+ [1996958]
+ [1956421]
+ [1997182]]
+[[1999418]
+ [1999756]
+ [1999804]
+ [1999832]
+ [1999717]]
+### Total search time 163490.000000 microsecs, 163.490000 millisecs, 0.163490 secsc
+### Avg cost per query: 16.349000 microsecs, 0.016349 millisecs, 0.000016 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 2000000
+Queries: 10000
+Topk: 1
+### Start generating random data
+### Generating random data costs 502781.000000 microsecs, 502.781000 millisecs, 0.502781 secsc
+### Start to build index
+### Building index costs 706421.000000 microsecs, 706.421000 millisecs, 0.706421 secsc
+### Start to secarch all queries
+[[1998951]
+ [1989579]
+ [1997959]
+ [1997612]
+ [1996563]]
+[[1999912]
+ [1999909]
+ [1999912]
+ [1999909]
+ [1999974]]
+### Total search time 317077.000000 microsecs, 317.077000 millisecs, 0.317077 secsc
+### Avg cost per query: 31.707700 microsecs, 0.031708 millisecs, 0.000032 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 2000000
+Queries: 10000
+Topk: 1
+### Start generating random data
+### Generating random data costs 196657.000000 microsecs, 196.657000 millisecs, 0.196657 secsc
+### Start to build index
+### Building index costs 445281.000000 microsecs, 445.281000 millisecs, 0.445281 secsc
+### Start to secarch all queries
+[[1986488]
+ [1992941]
+ [1990940]
+ [1999694]
+ [1999008]]
+[[1999976]
+ [1999789]
+ [1999707]
+ [1999694]
+ [1999976]]
+### Total search time 494981.000000 microsecs, 494.981000 millisecs, 0.494981 secsc
+### Avg cost per query: 49.498100 microsecs, 0.049498 millisecs, 0.000049 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 2000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 74503.000000 microsecs, 74.503000 millisecs, 0.074503 secsc
+### Start to build index
+### Building index costs 456201.000000 microsecs, 456.201000 millisecs, 0.456201 secsc
+### Start to secarch all queries
+[[1997494]
+ [1999070]
+ [1999070]
+ [1999747]
+ [1999526]]
+[[1999983]
+ [1999983]
+ [1999983]
+ [1999983]
+ [1999983]]
+### Total search time 85957.000000 microsecs, 85.957000 millisecs, 0.085957 secsc
+### Avg cost per query: 1.719140 microsecs, 0.001719 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 2000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 64333.000000 microsecs, 64.333000 millisecs, 0.064333 secsc
+### Start to build index
+### Building index costs 908017.000000 microsecs, 908.017000 millisecs, 0.908017 secsc
+### Start to secarch all queries
+[[1998910]
+ [1998581]
+ [1998910]
+ [1997377]
+ [1997733]]
+[[1999951]
+ [1999951]
+ [1999951]
+ [1999951]
+ [1999951]]
+### Total search time 177078.000000 microsecs, 177.078000 millisecs, 0.177078 secsc
+### Avg cost per query: 3.541560 microsecs, 0.003542 millisecs, 0.000004 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 2000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 117429.000000 microsecs, 117.429000 millisecs, 0.117429 secsc
+### Start to build index
+### Building index costs 831311.000000 microsecs, 831.311000 millisecs, 0.831311 secsc
+### Start to secarch all queries
+[[1999592]
+ [1997182]
+ [1996958]
+ [1956421]
+ [1997182]]
+[[1999920]
+ [1999891]
+ [1999946]
+ [1999920]
+ [1999920]]
+### Total search time 165441.000000 microsecs, 165.441000 millisecs, 0.165441 secsc
+### Avg cost per query: 3.308820 microsecs, 0.003309 millisecs, 0.000003 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 2000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 308752.000000 microsecs, 308.752000 millisecs, 0.308752 secsc
+### Start to build index
+### Building index costs 657153.000000 microsecs, 657.153000 millisecs, 0.657153 secsc
+### Start to secarch all queries
+[[1998951]
+ [1989579]
+ [1997959]
+ [1997612]
+ [1996563]]
+[[1999996]
+ [1999912]
+ [1999996]
+ [1999974]
+ [1999974]]
+### Total search time 91640.000000 microsecs, 91.640000 millisecs, 0.091640 secsc
+### Avg cost per query: 1.832800 microsecs, 0.001833 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 2000000
+Queries: 50000
+Topk: 1
+### Start generating random data
+### Generating random data costs 513989.000000 microsecs, 513.989000 millisecs, 0.513989 secsc
+### Start to build index
+### Building index costs 439011.000000 microsecs, 439.011000 millisecs, 0.439011 secsc
+### Start to secarch all queries
+[[1986488]
+ [1992941]
+ [1990940]
+ [1999694]
+ [1999008]]
+[[1999927]
+ [1999988]
+ [1999988]
+ [1999694]
+ [1999988]]
+### Total search time 116247.000000 microsecs, 116.247000 millisecs, 0.116247 secsc
+### Avg cost per query: 2.324940 microsecs, 0.002325 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 2000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 160804.000000 microsecs, 160.804000 millisecs, 0.160804 secsc
+### Start to build index
+### Building index costs 458583.000000 microsecs, 458.583000 millisecs, 0.458583 secsc
+### Start to secarch all queries
+[[1997494]
+ [1999070]
+ [1999070]
+ [1999747]
+ [1999526]]
+[[1999983]
+ [1999983]
+ [1999983]
+ [1999983]
+ [1999983]]
+### Total search time 131365.000000 microsecs, 131.365000 millisecs, 0.131365 secsc
+### Avg cost per query: 1.313650 microsecs, 0.001314 millisecs, 0.000001 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 2000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 331344.000000 microsecs, 331.344000 millisecs, 0.331344 secsc
+### Start to build index
+### Building index costs 928997.000000 microsecs, 928.997000 millisecs, 0.928997 secsc
+### Start to secarch all queries
+[[1998910]
+ [1998581]
+ [1998910]
+ [1997377]
+ [1997733]]
+[[1999951]
+ [1999951]
+ [1999951]
+ [1999951]
+ [1999951]]
+### Total search time 932364.000000 microsecs, 932.364000 millisecs, 0.932364 secsc
+### Avg cost per query: 9.323640 microsecs, 0.009324 millisecs, 0.000009 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 2000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 625580.000000 microsecs, 625.580000 millisecs, 0.625580 secsc
+### Start to build index
+### Building index costs 902088.000000 microsecs, 902.088000 millisecs, 0.902088 secsc
+### Start to secarch all queries
+[[1999592]
+ [1997182]
+ [1996958]
+ [1956421]
+ [1997182]]
+[[1999920]
+ [1999920]
+ [1999920]
+ [1999940]
+ [1999917]]
+### Total search time 200257.000000 microsecs, 200.257000 millisecs, 0.200257 secsc
+### Avg cost per query: 2.002570 microsecs, 0.002003 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 2000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 781690.000000 microsecs, 781.690000 millisecs, 0.781690 secsc
+### Start to build index
+### Building index costs 695830.000000 microsecs, 695.830000 millisecs, 0.695830 secsc
+### Start to secarch all queries
+[[1998951]
+ [1989579]
+ [1997959]
+ [1997612]
+ [1996563]]
+[[1999996]
+ [1999956]
+ [1999974]
+ [1999996]
+ [1999996]]
+### Total search time 850611.000000 microsecs, 850.611000 millisecs, 0.850611 secsc
+### Avg cost per query: 8.506110 microsecs, 0.008506 millisecs, 0.000009 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 2000000
+Queries: 100000
+Topk: 1
+### Start generating random data
+### Generating random data costs 25984.000000 microsecs, 25.984000 millisecs, 0.025984 secsc
+### Start to build index
+### Building index costs 282363.000000 microsecs, 282.363000 millisecs, 0.282363 secsc
+### Start to secarch all queries
+[[1986488]
+ [1992941]
+ [1990940]
+ [1999694]
+ [1999008]]
+[[1999988]
+ [1999988]
+ [1999988]
+ [1999988]
+ [1999988]]
+### Total search time 628214.000000 microsecs, 628.214000 millisecs, 0.628214 secsc
+### Avg cost per query: 6.282140 microsecs, 0.006282 millisecs, 0.000006 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 128
+Records: 2000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 515023.000000 microsecs, 515.023000 millisecs, 0.515023 secsc
+### Start to build index
+### Building index costs 471755.000000 microsecs, 471.755000 millisecs, 0.471755 secsc
+### Start to secarch all queries
+[[1997494]
+ [1999070]
+ [1999070]
+ [1999747]
+ [1999526]]
+[[1999983]
+ [1999983]
+ [1999983]
+ [1999983]
+ [1999983]]
+### Total search time 38602.000000 microsecs, 38.602000 millisecs, 0.038602 secsc
+### Avg cost per query: 0.077204 microsecs, 0.000077 millisecs, 0.000000 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 256
+Records: 2000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 51739.000000 microsecs, 51.739000 millisecs, 0.051739 secsc
+### Start to build index
+### Building index costs 949026.000000 microsecs, 949.026000 millisecs, 0.949026 secsc
+### Start to secarch all queries
+[[1998910]
+ [1998581]
+ [1998910]
+ [1997377]
+ [1997733]]
+[[1999959]
+ [1999951]
+ [1999951]
+ [1999959]
+ [1999951]]
+### Total search time 920884.000000 microsecs, 920.884000 millisecs, 0.920884 secsc
+### Avg cost per query: 1.841768 microsecs, 0.001842 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 512
+Records: 2000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 133019.000000 microsecs, 133.019000 millisecs, 0.133019 secsc
+### Start to build index
+### Building index costs 835337.000000 microsecs, 835.337000 millisecs, 0.835337 secsc
+### Start to secarch all queries
+[[1999592]
+ [1997182]
+ [1996958]
+ [1956421]
+ [1997182]]
+[[1999940]
+ [1999940]
+ [1999940]
+ [1999940]
+ [1999940]]
+### Total search time 884058.000000 microsecs, 884.058000 millisecs, 0.884058 secsc
+### Avg cost per query: 1.768116 microsecs, 0.001768 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 1024
+Records: 2000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 450546.000000 microsecs, 450.546000 millisecs, 0.450546 secsc
+### Start to build index
+### Building index costs 720326.000000 microsecs, 720.326000 millisecs, 0.720326 secsc
+### Start to secarch all queries
+[[1998951]
+ [1989579]
+ [1997959]
+ [1997612]
+ [1996563]]
+[[1999996]
+ [1999996]
+ [1999996]
+ [1999996]
+ [1999996]]
+### Total search time 785706.000000 microsecs, 785.706000 millisecs, 0.785706 secsc
+### Avg cost per query: 1.571412 microsecs, 0.001571 millisecs, 0.000002 secsc
+------------------------------------
+Flushing page cache, dentries and inodes...
+Done flushing.
+Dimension: 2048
+Records: 2000000
+Queries: 500000
+Topk: 1
+### Start generating random data
+### Generating random data costs 45740.000000 microsecs, 45.740000 millisecs, 0.045740 secsc
+### Start to build index
+### Building index costs 467807.000000 microsecs, 467.807000 millisecs, 0.467807 secsc
+### Start to secarch all queries
+[[1986488]
+ [1992941]
+ [1990940]
+ [1999694]
+ [1999008]]
+[[1999972]
+ [1999988]
+ [1999988]
+ [1999988]
+ [1999988]]
+### Total search time 57244.000000 microsecs, 57.244000 millisecs, 0.057244 secsc
+### Avg cost per query: 0.114488 microsecs, 0.000114 millisecs, 0.000000 secsc
+------------------------------------
+
